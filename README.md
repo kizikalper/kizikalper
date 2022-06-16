@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kizikalper
 - 👀 I’m interested in data-related fields; business intelligence, information systems, project management. 
 - Blockchain technology and cryptocurrencies are the areas that excite me and I love to research and learn.
-- 🌱 I’m currently learning python programming language and on cloud databases. Besides, I do research on project management methodologies. 
+- 🌱 I'm currently learning the Python programming language and working on cloud databases. Besides, I do research on project management methodologies. 
 - Since the fields that will increase efficiency and sustainability and the idea of "eliminating waste at every opportunity" are so attractive to me.
 - 💞️ I’m looking to collaborate on a team that values development, follows developing technology, constantly renews itself, is open to learning, and supports each other.
 
